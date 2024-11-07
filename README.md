@@ -1,1 +1,1 @@
-#Paper Blocks Server 1.0
+# Paper Blocks Server 1.0
